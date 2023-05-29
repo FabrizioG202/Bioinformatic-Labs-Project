@@ -1,0 +1,14 @@
+Cluster Id,No. of sequences,Average sequence identity,Min. sequence identity,Center sequence,Sequence for min. sequence identity
+1,2,0.932,0.932,6zoi_A,6yhy_A
+3,3,0.983,0.983,1y62_E,6q6c_A
+4,103,0.976,0.893,5pti_A,1yld_B
+5,13,0.974,0.914,3aub_A,5jb7_A
+6,14,0.971,0.929,5nx1_C,5nx3_D
+7,3,0.873,0.747,4bqd_B,6bx8_B
+8,4,1.0,1.0,5zj3_B,3byb_C
+9,4,0.994,0.981,3t62_E,3uou_B
+10,4,1.0,1.0,4isl_B,1yc0_I
+11,3,1.0,1.0,1knt_A,2knt_A
+12,3,1.0,1.0,4ntx_B,4ntw_B
+13,2,0.983,0.983,5yv7_A,6kzf_A
+14,2,1.0,1.0,4dtg_K,1tfx_D

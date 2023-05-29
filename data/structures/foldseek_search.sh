@@ -1,0 +1,1 @@
+foldseek easy-search ./data/structures/5pti.pdb /home/fabrizio/foldseek-db/pdb ./data/search_results/foldseek.tsv ./tmp  --format-mode 4 --format-output query,target,qstart,tstart,evalue,prob,rmsd,tseq --max-seqs 1000 -e 0.1

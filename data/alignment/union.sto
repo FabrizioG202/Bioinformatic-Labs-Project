@@ -1,0 +1,75 @@
+# STOCKHOLM 1.0
+#=GF SQ 24
+PDB:6zoi:A -------------------------------------------------------------------------------------------------------------dRps-yC-NLPADS-GS--Gt-KSEQRIYYNSarKQCLTFTYNgKGG-NENNFIHTYDCARTCqypa-------------------------------------------------------------------
+#=GS PDB:6zoi:A AC PDB:6zoi:A
+#=GS PDB:6zoi:A DE PDB:6zoi:A A LID BLOCKING MECHANISM OF A CONE SNAIL TOXIN REV
+PDB:6yht:A --------------------------------------------------------------------------------------------------------------Lps-lC-YEPADS-GS--Gt-KSEKRIYYNSarKQCLRFTYNgKGG-NANNFIHTFDCQHTCl----------------------------------------------------------------------
+#=GS PDB:6yht:A AC PDB:6yht:A
+#=GS PDB:6yht:A DE PDB:6yht:A A LID BLOCKING MECHANISM OF A CONE SNAIL TOXIN REV
+PDB:6q6c:B -------------------------------------------------------------------------------------------------------------dRps-lC-DLPADS-GS--Gt-KAEKRIYYNSarKQCLRFDYTgQGG-NENNFRRTYDCQDTClyt--------------------------------------------------------------------
+#=GS PDB:6q6c:B AC PDB:6q6c:B
+#=GS PDB:6q6c:B DE PDB:6q6c:B PORE-MODULATING TOXINS EXPLOIT INHERENT SLOW INACT
+PDB:1b0c:E --------------------------------------------------------------------------------------------------------------Rpd-fC-LEPPYT-GP--Ck-ARIIRYFYNAkaGLCQTFVYGgCRA-KRNNFKSAEDCMRTCg----------------------------------------------------------------------
+#=GS PDB:1b0c:E AC PDB:1b0c:E
+#=GS PDB:1b0c:E DE PDB:1b0c:E EVIDENCE OF A COMMON DECAMER IN THREE CRYSTAL STRU
+PDB:3aub:A --------------------------------------------------------------------------------------------------------------Rpa-fC-LEPPYA-GP--Gk-ARIIRYFYNAaaGAAQAFVYGgVRA-KRNNFASAADALAACaaa--------------------------------------------------------------------
+#=GS PDB:3aub:A AC PDB:3aub:A
+#=GS PDB:3aub:A DE PDB:3aub:A A SIMPLIFIED BPTI VARIANT STABILIZED BY THE A14G A
+PDB:5nx1:C --------------------------------------------------------------------------------------------------------------Ev---C-SEQAET-GP--Cr-AMISRWYFDVteGKCAPFFYGgCGG-NRNNFDTEEYCMAVCg----------------------------------------------------------------------
+#=GS PDB:5nx1:C AC PDB:5nx1:C
+#=GS PDB:5nx1:C DE PDB:5nx1:C COMBINATORIAL ENGINEERING OF PROTEOLYTICALLY RESIS
+PDB:4bqd:A -------------------------------------------------------------------------------------------seedeehtiitdtelpplkLmhsfC-AFKADD-GP--Ck-AIMKRFFFNIftRQCEEFIYGgCEG-NQNRFESLEECKKMCtrd--------------------------------------------------------------------
+#=GS PDB:4bqd:A AC PDB:4bqd:A
+#=GS PDB:4bqd:A DE PDB:4bqd:A KD1 OF HUMAN TFPI IN COMPLEX WITH A SYNTHETIC PEPT
+PDB:4iso:B -------------------------------------------------------------------------------------------------------------qTed-yC-LASNKV-GR--Cr-GSFPRWYYDPteQICKSFVYGgCLG-NKNNYLREEECILACrgvq-------------------------------------------------------------------
+#=GS PDB:4iso:B AC PDB:4iso:B
+#=GS PDB:4iso:B DE PDB:4iso:B CRYSTAL STRUCTURE OF MATRIPTASE IN COMPLEX WITH IT
+PDB:4u30:X --------------------------------------------------------------------------------------------------------------A----CaNLPIVR-GP--Cr-AFIQLWAFDAvkGKCVLFPYGgCQG-NGNKFYSEKECREYCg----------------------------------------------------------------------
+#=GS PDB:4u30:X AC PDB:4u30:X
+#=GS PDB:4u30:X DE PDB:4u30:X HUMAN MESOTRYPSIN COMPLEXED WITH BIKUNIN KUNITZ DO
+PDB:3byb:B -------------------------------------------------------------------------------------------------------------dRpd-fC-ELPADT-GP--Cr-VRFPSFYYNPdeKKCLEFIYGgCEG-NANNFITKEECESTCaa---------------------------------------------------------------------
+#=GS PDB:3byb:B AC PDB:3byb:B
+#=GS PDB:3byb:B DE PDB:3byb:B CRYSTAL STRUCTURE OF TEXTILININ-1, A KUNITZ-TYPE S
+PDB:3t62:D --------------------------------------------------------------------------------------------------------------Si---C-SEPKKV-GR--Ck-GYFPRFYFDSetGKCTPFIYGgCGG-NGNNFETLHQCRAICr----------------------------------------------------------------------
+#=GS PDB:3t62:D AC PDB:3t62:D
+#=GS PDB:3t62:D DE PDB:3t62:D CRYSTAL STRUCTURE OF RECOMBINANT KUNITZ TYPE SERIN
+PDB:1kth:A --------------------------------------------------------------------------------------------------------------Etd-iC-KLPKDE-GT--Cr-DFILKWYYDPntKSCARFWYGgCGG-NENKFGSQKECEKVCapv--------------------------------------------------------------------
+#=GS PDB:1kth:A AC PDB:1kth:A
+#=GS PDB:1kth:A DE PDB:1kth:A THE ANISOTROPIC REFINEMENT OF KUNITZ TYPE DOMAIN C
+PDB:4ntw:B ------------------------------------------------------------------------------------------------------------eiRpa-fC-YEDPPFfQKc-G--AFVDSYYFNRsrITCVHFFYG-QCDvNQNHFTTMSECNRVChg---------------------------------------------------------------------
+#=GS PDB:4ntw:B AC PDB:4ntw:B
+#=GS PDB:4ntw:B DE PDB:4ntw:B STRUCTURE OF ACID-SENSING ION CHANNEL IN COMPLEX W
+PDB:1zr0:D ----------------------------------------------------------------------------------------------------------ptgnNae-iC-LLPLDY-GP--Cr-ALLLRYYYDRytQSCRQFLYGgCEG-NANNFYTWEACDDACwrie-------------------------------------------------------------------
+#=GS PDB:1zr0:D AC PDB:1zr0:D
+#=GS PDB:1zr0:D DE PDB:1zr0:D CRYSTAL STRUCTURE OF KUNITZ DOMAIN 1 OF TISSUE FAC
+PDB:4dtg:K -------------------------------------------------------------------------------------------------------------eKpd-fC-FLEEDP-GI--Cr-GYITRYFYNNqtKQCERFKYGgCLG-NMNNFETLEECKNICedgh-------------------------------------------------------------------
+#=GS PDB:4dtg:K AC PDB:4dtg:K
+#=GS PDB:4dtg:K DE PDB:4dtg:K HEMOSTATIC EFFECT OF A MONOCLONAL ANTIBODY MAB 202
+PDB:6kzf:A ------------------------------------------------------------------------------------------------------------wqPpw-yX-KEPVRI-GS--Ck-KQFSSFYFKWtaKKCLPFLFSgCGG-NANRFQTIGECRKKClgk--------------------------------------------------------------------
+#=GS PDB:6kzf:A AC PDB:6kzf:A
+#=GS PDB:6kzf:A DE PDB:6kzf:A RACEMIC X-RAY STRUCTURE OF CALCICLUDINE
+PDB:2ody:E --------------------------------------------------------------------------------------------------------------QrngfC-RLPADE-GI--Ck-ALIPRFYFNTetGKCTMFSYGgCGG-NENNFETIEECQKACgapervndfesadfktgcepaadsgscagqlerwfynvqsgecetfvyggcggndnnyeseeecelvcknm
+#=GS PDB:2ody:E AC PDB:2ody:E
+#=GS PDB:2ody:E DE PDB:2ody:E THROMBIN-BOUND BOOPHILIN DISPLAYS A FUNCTIONAL AND
+PDB:5m4v:A --------------------------------------------------------------------------------------------------------------Rps-fC-NLPVKP-GP--Ck-AFFSAFYYSQktNKCHSFTYGgCKG-NANRFSTLEKCRRTCvg---------------------------------------------------------------------
+#=GS PDB:5m4v:A AC PDB:5m4v:A
+#=GS PDB:5m4v:A DE PDB:5m4v:A X-RAY STRUCTURE OF THE MAMBAQUARETIN-1, A SELECTIV
+PDB:1fak:I --------------------------------------------------------------------------------------------------------------Apd-fC-LEPPYD-GP--Cr-ALHLRYFYNAkaGLCQTFYYGgCLA-KRNNFESAEDCMRTC-----------------------------------------------------------------------
+#=GS PDB:1fak:I AC PDB:1fak:I
+#=GS PDB:1fak:I DE PDB:1fak:I HUMAN TISSUE FACTOR COMPLEXED WITH COAGULATION FAC
+PDB:1bun:B ------------------------------------------------------------------------------------------------------------rkRhp-dC-DKPPDT-KIc-Q--TVVRAFYYKPsaKRCVQFRYG-GCNgNGNHFKSDHLCRCECleyr-------------------------------------------------------------------
+#=GS PDB:1bun:B AC PDB:1bun:B
+#=GS PDB:1bun:B DE PDB:1bun:B STRUCTURE OF BETA2-BUNGAROTOXIN: POTASSIUM CHANNEL
+PDB:8aj7:B -----------------------------------------------------------------------------------------------------------ansKa--vC-NLPKLA-GDetCsnKTEIRWYYNG--TACEAFIFKgCGG-NDNNFDRVDDCQRLC-----------------------------------------------------------------------
+#=GS PDB:8aj7:B AC PDB:8aj7:B
+#=GS PDB:8aj7:B DE PDB:8aj7:B KUNITZ DOMAIN OF AMBLYOMIN-X
+PDB:4u32:X --------------------------------------------------------------------------------------------------------------Hd--fC-LVSKVV-GR--Cr-ASMPRWWYNVtdGSCQLFVYGgCDG-NSNNYLTKEECLKKC-----------------------------------------------------------------------
+#=GS PDB:4u32:X AC PDB:4u32:X
+#=GS PDB:4u32:X DE PDB:4u32:X HUMAN MESOTRYPSIN COMPLEXED WITH HAI-2 KUNITZ DOMA
+PDB:4bd9:B isvcdlpadrgqctayipqwffakttedcekfvyggcqgnanrfetkddciancgcnlpskvgpcrvsarmwfhnpetekcevfiyggchgnanrfatetecqevcdryqKpg-fC-YQPSET-GP--Ck-GSFPRYYYDYedGECKEFIYGgCEG-NANNFETKESCENAC-----------------------------------------------------------------------
+#=GS PDB:4bd9:B AC PDB:4bd9:B
+#=GS PDB:4bd9:B DE PDB:4bd9:B STRUCTURE OF THE COMPLEX BETWEEN SMCI AND HUMAN CA
+PDB:1dtx:A ------------------------------------------------------------------------------------------------------------epRrk-lC-ILHRNP-GR--Cy-DKIPAFYYNQkkKQCERFDWSgCGG-NSNRFKTIEECRRTCig---------------------------------------------------------------------
+#=GS PDB:1dtx:A AC PDB:1dtx:A
+#=GS PDB:1dtx:A DE PDB:1dtx:A CRYSTAL STRUCTURE OF ALPHA-DENDROTOXIN FROM THE GR
+//
